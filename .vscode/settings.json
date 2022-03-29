@@ -13,6 +13,8 @@
       "source.fixAll.eslint": true
     }
   },
+  "typescript.suggest.paths": false,
+  "javascript.suggest.paths": false,
   "javascript.validate.enable": false,
   "eslint.alwaysShowStatus": true,
   "eslint.validate": [
